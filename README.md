@@ -1,73 +1,25 @@
-# Welcome to your Lovable project
+🏡 Resi – Conectando moradores e comércios locais
 
-## Project info
+Resi é uma plataforma digital criada para aproximar moradores e estabelecimentos de sua cidade, oferecendo benefícios exclusivos, descontos personalizados e uma experiência de compra mais inteligente e local.
 
-**URL**: https://lovable.dev/projects/16bbdc77-064c-4f67-b111-a99e14a67488
+A proposta é simples: identificar quem é morador e recompensar sua fidelidade com vantagens que só quem faz parte da comunidade merece. Ao mesmo tempo, os comércios locais ganham uma maneira fácil e direta de aumentar suas vendas, fidelizar clientes e impulsionar a economia da região.
 
-## How can I edit this code?
+🚀 Funcionalidades principais
 
-There are several ways of editing your application.
+📍 Geolocalização inteligente: o usuário pode permitir o acesso à localização para receber ofertas e benefícios perto de onde está.
 
-**Use Lovable**
+💳 QR Code de morador: apresente seu código em estabelecimentos parceiros e desbloqueie descontos automáticos.
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/16bbdc77-064c-4f67-b111-a99e14a67488) and start prompting.
+🛍️ Marketplace local: descubra lojas, serviços e eventos exclusivos para moradores.
 
-Changes made via Lovable will be committed automatically to this repo.
+📊 Painel para comerciantes: os estabelecimentos podem gerenciar promoções e acompanhar resultados em tempo real.
 
-**Use your preferred IDE**
+🛠️ Tecnologias utilizadas
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+⚡ Vite – build rápido e leve
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+⚛️ React + TypeScript – interface moderna e segura
 
-Follow these steps:
+🎨 Tailwind CSS + shadcn/ui – design responsivo e elegante
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
-
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
-
-# Step 3: Install the necessary dependencies.
-npm i
-
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
-
-**Edit a file directly in GitHub**
-
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
-
-**Use GitHub Codespaces**
-
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
-
-## What technologies are used for this project?
-
-This project is built with:
-
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/16bbdc77-064c-4f67-b111-a99e14a67488) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+📦 Node.js / npm – ambiente de desenvolvimento e gerenciamento de pacotes
